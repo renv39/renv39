@@ -17,9 +17,9 @@ Coursework and personal projects spanning systems programming, desktop apps, and
 
 | Group | Description | Highlighted Project | Stack |
 | ----- | ----------- | ------------------- | ----- |
-| [C++ Systems Projects](https://github.com/rendellvelasco/cpp-systems-projects) | 4 progressively complex OOP projects covering memory management, templates, STL, and multi-module design | [Assembly Line Simulator](https://github.com/rendellvelasco/cpp-systems-projects/tree/main/assembly-line-simulator) — factory pipeline with workstation queues, order routing, and a line manager | C++17 · STL · Make · GCC |
-| [JavaFX Desktop Apps](https://github.com/rendellvelasco/javafx-desktop-apps) | Workshop series building MVC desktop apps with DI, JDBC, and enterprise design patterns | [Auto Loan App](https://github.com/rendellvelasco/javafx-desktop-apps/tree/main/auto-loan-app) — 3-tier app with Guice IoC, SQLite persistence, BCrypt auth, and file I/O | Java · JavaFX · SQLite · Guice |
-| [Web Apps & Services](https://github.com/rendellvelasco/web-apps-and-services) | REST API design through a React/Next.js rebuild — data-first full stack progression | [Met Artwork Explorer](https://github.com/rendellvelasco/met-artwork-explorer) — full stack Next.js app with JWT auth, state management, and Vercel deployment | Next.js · Node.js · MongoDB · Express |
+| [C++ Systems Projects](https://github.com/renv39/cpp-systems-projects) | 4 progressively complex OOP projects covering memory management, templates, STL, and multi-module design | [Assembly Line Simulator](https://github.com/renv39/cpp-systems-projects/tree/main/assembly-line-simulator) — factory pipeline with workstation queues, order routing, and a line manager | C++17 · STL · Make · GCC |
+| [JavaFX Desktop Apps](https://github.com/renv39/javafx-desktop-apps) | Workshop series building MVC desktop apps with DI, JDBC, and enterprise design patterns | [Auto Loan App](https://github.com/renv39/javafx-desktop-apps/tree/main/auto-loan-app) — 3-tier app with Guice IoC, SQLite persistence, BCrypt auth, and file I/O | Java · JavaFX · SQLite · Guice |
+| [Web Apps & Services](https://github.com/renv39/web-apps-and-services) | REST API design through a React/Next.js rebuild — data-first full stack progression | [Met Artwork Explorer](https://github.com/renv39/met-artwork-explorer) — full stack Next.js app with JWT auth, state management, and Vercel deployment | Next.js · Node.js · MongoDB · Express |
 
 ---
 
@@ -75,5 +75,5 @@ Coursework and personal projects spanning systems programming, desktop apps, and
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rendellvelasco&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renv39&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </div>
