@@ -4,7 +4,7 @@
 
 **Full Stack Developer · CS Student @ Seneca College**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rendellvelasco-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rendellvelasco)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rendellvelasco-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rendell-velasco)
 [![Email](https://img.shields.io/badge/Email-rendellvelasco%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:rendellvelasco@gmail.com)
 
 </div>
